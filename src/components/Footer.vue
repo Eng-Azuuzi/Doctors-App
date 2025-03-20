@@ -100,7 +100,7 @@
           class="mt-8 text-gray-500 transition duration-150 hover:translate-x-2"
         >
           <i class="fas fa-phone-alt"></i>
-          +252 65 9999999
+          +252 63 6941118
         </p>
       </div>
     </div>
@@ -110,7 +110,7 @@
     </div>
 
     <div class="flex justify-between text-gray-600">
-      <p><span>&#169;</span> 2020 Doctor. All rights reserved.</p>
+      <p><span>&#169;</span> 2024 Doctor. All rights reserved.</p>
 
       <p>Terms and Conditions | Policy</p>
     </div>
